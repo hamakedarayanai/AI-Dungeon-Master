@@ -1,0 +1,5 @@
+{
+  "name": "AI Dungeon Master",
+  "description": "A choose-your-own-adventure game powered by AI. Provide a starting premise, and the AI will weave a story, presenting you with choices to guide the narrative. You can even upload an image to inspire the setting or characters.",
+  "requestFramePermissions": []
+}
